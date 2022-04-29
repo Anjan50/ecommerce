@@ -7,8 +7,8 @@ const Home = ({ products, bannerData }) => (
   <div>
     <HeroBanner heroBanner={bannerData.length && bannerData[0]} />
     <div className="products-heading">
-      <h2>Best Seller Blockchain Books</h2>
-      <p> New Edge Authors</p>
+      <h2>Crypto Merchandise Collection</h2>
+      <p> Bitcoin, Ethereum, Solana, Polygon, Binance</p>
     </div>
 
     <div className="products-container">

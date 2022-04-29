@@ -9,7 +9,7 @@ const Layout = ({ children }) => {
         <div className="layout">
             <Head>
                 <title>
-                    Crypto Store
+                    Crypto Merch Store
                 </title>
             </Head>
             <header>

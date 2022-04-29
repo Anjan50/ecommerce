@@ -140,6 +140,7 @@ width: 100%;
 }
 .hero-banner-container .beats-solo{
   font-size: 20px;
+  margin-left: 55px;
 }
 .hero-banner-container button{
    border-radius: 15px;
@@ -150,24 +151,28 @@ width: 100%;
   margin-top: 40px;
   font-size: 18px;
   font-weight: 500;
+  margin-left: 55px;
   cursor: pointer;
   z-index:10000 !important;
 }
 
 .hero-banner-container h3{
   font-size: 4rem;
-  margin-top: 4px;
+  margin-top: 22px;
+  margin-left: 50px;
+  color: #f02d34;
 }
 .hero-banner-container h1{
-  color: white;
-  font-size: 10em;
-  margin-left: -20px;
+  color: #1c364f;
+  font-size: 9em;
+  margin-left: 50px;
+  margin-top: 25px;
   text-transform: uppercase;
 }
 .hero-banner-image{
   position: absolute;
-  top: 0%;
-  right:20%;
+  top: -15px;
+  right: 3%;
   width: 450px;
   height: 450px;
 }
@@ -246,10 +251,10 @@ text-align: end;
 }
 .footer-banner-image{
   position: absolute;
-  /* top: -35%;
-  left: 8%; */
-  top: -25%;
-  left: 25%;
+    top: 10%;
+    left: 34%;
+    width: 330px;
+    height: 330px;
 }
 .banner-desc .right{
   line-height: 1.4;

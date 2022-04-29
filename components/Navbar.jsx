@@ -12,7 +12,7 @@ const Navbar = () => {
         <div className="navbar-container">
             <p className="logo">
                 <Link href="/">
-                    Crypto Store
+                    Crypto Merch Store
                 </Link>
             </p>
             <button type='button' className="cart-icon" onClick={() => setShowCart(true)}>
